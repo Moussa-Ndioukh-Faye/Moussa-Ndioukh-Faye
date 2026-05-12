@@ -132,22 +132,11 @@
 
 ---
 
+---
+
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" style="border: none;">
-        <br />
-        <img src="https://img.shields.io/badge/Citation_du_moment-64a1f4?style=for-the-badge&logo=quote&logoColor=white" />
-        <br /><br />
-        <font size="4">
-          <i>« Le code est comme l'humour. Quand vous devez l'expliquer, c'est qu'il est mauvais. »</i>
-        </font>
-        <br />
-        <b>— Cory House</b>
-        <br /><br />
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2e3440&height=120&text=«%20Le%20code%20est%20comme%20l'humour.%20Quand%20vous%20devez%20l'expliquer,%20c'est%20qu'il%20est%20mauvais.%20»&fontSize=22&fontAlignY=45&fontColor=88c0d0&animation=twinkling" width="100%" />
+  <p align="right"><i>— Cory House, Développeur & Auteur</i> &nbsp;&nbsp;&nbsp;</p>
 </div>
 
 <div align="center">
