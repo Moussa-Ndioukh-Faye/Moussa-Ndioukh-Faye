@@ -14,23 +14,35 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
-      <h4>Passion & Expertise</h4>
-      Développeur polyvalent spécialisé dans l'écosystème <b>Git</b> et les workflows <b>Open Source</b>. Ma mission est de construire des architectures robustes et d'automatiser tout ce qui peut l'être pour garantir la qualité et la rapidité des livraisons.
+    <td width="55%" valign="top">
+      <h4>🚀 Transformer le code en valeur</h4>
+      Bienvenue dans mon univers numérique ! Je suis un <b>Développeur Fullstack</b> passionné par l'art de construire des solutions élégantes et performantes. Mon obsession ? L'efficacité. 
       <br /><br />
-      📍 Basé au Sénégal 🇸🇳<br />
-      💼 Disponible pour des collaborations passionnantes
+      Spécialisé dans l'écosystème <b>DevOps & Open Source</b>, je ne me contente pas d'écrire du code : je conçois des systèmes automatisés qui permettent aux équipes de livrer plus vite et avec plus de sérénité.
+      <br /><br />
+      <b>Ce que j'apporte à vos projets :</b>
+      <ul>
+        <li>Une expertise pointue en <b>Versioning (Git)</b></li>
+        <li>Une culture de l'<b>automatisation (CI/CD)</b></li>
+        <li>Un engagement total pour le <b>code propre (Clean Code)</b></li>
+      </ul>
+      📍 Basé au Sénégal 🇸🇳 | 🌍 Prêt pour le monde
     </td>
-    <td width="50%" valign="top">
-      <h4>Quick Links</h4>
-      <a href="https://linkedin.com/in/moussa-ndioukh-faye">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-      </a>
-      <a href="mailto:fayemoussandioukh@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
+    <td width="45%" valign="top">
+      <h4>⚡ En quelques mots</h4>
+      <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-success?style=for-the-badge" width="100%" />
+      <br /><br />
+      <b>🔭 Actuellement :</b> Perfectionnement des architectures Cloud & Microservices.
       <br />
-      <img src="https://img.shields.io/badge/Status-Disponible_pour_le_travail-success?style=flat-square" />
+      <b>🌱 En apprentissage :</b> Maîtrise avancée d'AWS et de l'IA générative.
+      <br />
+      <b>💬 On dit de moi :</b> Que je suis le "couteau suisse" de l'équipe Git.
+      <br /><br />
+      <div align="center">
+        <a href="https://linkedin.com/in/moussa-ndioukh-faye">
+          <img src="https://img.shields.io/badge/Connectons_nous-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+        </a>
+      </div>
     </td>
   </tr>
 </table>
