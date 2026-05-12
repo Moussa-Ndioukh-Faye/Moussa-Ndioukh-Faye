@@ -1,12 +1,12 @@
 # Moussa Ndioukh Faye
 
-**DevOps Engineer | Cloud & Infrastructure | Automation**
+**Développeur | Git & Open Source | Automatisation**
 
 ---
 
 ### À propos
 
-Ingénieur DevOps passionné par la conception et l'automatisation d'infrastructures cloud scalables et résilientes. J'ai à cœur de bâtir des systèmes robustes en m'appuyant sur les meilleures pratiques d'industrialisation, de conteneurisation et d'intégration continue.
+Développeur passionné par le code, le versioning et l'open source. Je maîtrise Git et GitHub pour collaborer efficacement sur des projets, automatiser les workflows et livrer un code propre et maintenable.
 
 ---
 
@@ -14,14 +14,12 @@ Ingénieur DevOps passionné par la conception et l'automatisation d'infrastruct
 
 | Domaine | Technologies |
 |---|---|
-| **Cloud** | AWS, Azure, GCP |
-| **Conteneurisation & Orchestration** | Docker, Kubernetes, Docker Compose |
+| **Versioning & Collaboration** | Git, GitHub, Pull Requests, Code Review |
 | **CI/CD** | GitHub Actions, Jenkins, GitLab CI |
-| **Infrastructure as Code** | Terraform, Ansible |
-| **Langages** | Python, Bash, Go, TypeScript |
-| **Bases de données** | PostgreSQL, MongoDB, Redis |
-| **Monitoring** | Prometheus, Grafana, ELK Stack |
-| **Versioning** | Git, GitHub |
+| **Développement** | Python, JavaScript, TypeScript, Bash |
+| **Cloud & Infra** | Docker, AWS, Linux |
+| **Bases de données** | PostgreSQL, MongoDB |
+| **Workflows** | Git Flow, Conventional Commits, SemVer |
 
 ---
 
