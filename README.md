@@ -78,6 +78,14 @@
 
 ---
 
+### 🕒 Activité Récente
+
+<!-- START_SECTION:activity -->
+*   En attente de la première exécution du workflow...
+<!-- END_SECTION:activity -->
+
+---
+
 ### 📊 Performance Metrics
 
 <div align="center">
@@ -109,6 +117,18 @@
 </div>
 
 ---
+
+---
+
+<div align="center">
+  <h3>🤝 Soutenir mon travail</h3>
+  <p>Si vous appréciez mes projets ou mes contributions Open Source, n'hésitez pas à me soutenir !</p>
+  <a href="https://www.buymeacoffee.com/moussandioukh" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</div>
+
+<br />
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" width="100%" />
