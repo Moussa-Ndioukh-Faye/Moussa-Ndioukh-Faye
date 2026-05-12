@@ -5,7 +5,6 @@
 <div align="center">
   <br />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Fullstack+Developer;DevOps+Enthusiast;Git+Expert+%26+Open+Source" alt="Typing SVG" />
-  <br />
 </div>
 
 ---
@@ -20,12 +19,6 @@
       <br /><br />
       Spécialisé dans l'écosystème <b>DevOps & Open Source</b>, je ne me contente pas d'écrire du code : je conçois des systèmes automatisés qui permettent aux équipes de livrer plus vite et avec plus de sérénité.
       <br /><br />
-      <b>Ce que j'apporte à vos projets :</b>
-      <ul>
-        <li>Une expertise pointue en <b>Versioning (Git)</b></li>
-        <li>Une culture de l'<b>automatisation (CI/CD)</b></li>
-        <li>Un engagement total pour le <b>code propre (Clean Code)</b></li>
-      </ul>
       📍 Basé au Sénégal 🇸🇳 | 🌍 Prêt pour le monde
       <br /><br />
       🚀 **Découvrez mon univers : [portfolio-moussa-rust.vercel.app](https://portfolio-moussa-rust.vercel.app/)**
@@ -38,47 +31,50 @@
       <br /><br />
       <b>🔭 Actuellement :</b> Perfectionnement des architectures Cloud & Microservices.
       <br />
-      <b>🌱 En apprentissage :</b> Maîtrise avancée d'AWS et de l'IA générative.
+      <b>🎓 Éducation :</b> École Supérieure Polytechnique (ESP Dakar).
       <br />
       <b>💬 On dit de moi :</b> Que je suis le "couteau suisse" de l'équipe Git.
-      <br /><br />
-      <div align="center">
-        <a href="https://linkedin.com/in/moussa-ndioukh-faye">
-          <img src="https://img.shields.io/badge/Connectons_nous-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-        </a>
-      </div>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠 Tech Stack & Skills
+### 🛠 Compétences & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,bash,git,github,githubactions,docker,aws,linux,postgres,mongodb,react,nextjs,tailwind,nodejs" />
+
+| **Frontend** | **Backend** | **DevOps & Infra** |
+| :--- | :--- | :--- |
+| ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61dafb) | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonaws&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38b2ac?style=flat-square&logo=tailwind-css&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white) | ![G.Actions](https://img.shields.io/badge/GitHub_Actions-2088ff?style=flat-square&logo=github-actions&logoColor=white) |
+
 </div>
 
 ---
 
-### 📂 Projets en vedette (Bento Style)
+### 📂 Projets en vedette
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <b>🚀 Project Alpha</b><br />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moussa-Ndioukh-Faye&repo=Moussa-Ndioukh-Faye&theme=onedark" />
-      </div>
-    </td>
-    <td width="50%">
-      <div align="center">
-        <b>🛠 Project Beta</b><br />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Moussa-Ndioukh-Faye&repo=Moussa-Ndioukh-Faye&theme=onedark" />
-      </div>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center">
+        <b>📦 Gestion Académique ESP</b><br />
+        <i>Système backend PHP/MySQL pour la gestion des notes et étudiants à l'ESP Dakar.</i><br />
+        <code>PHP</code> <code>MySQL</code> <code>JavaScript</code><br />
+        <a href="https://github.com/Moussa-Ndioukh-Faye">Voir le projet</a>
+      </td>
+      <td width="50%" align="center">
+        <b>🎨 Portfolio Rust</b><br />
+        <i>Mon site vitrine moderne et performant déployé sur Vercel.</i><br />
+        <code>Rust</code> <code>React</code> <code>Tailwind</code><br />
+        <a href="https://portfolio-moussa-rust.vercel.app/">Visiter le site</a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -119,10 +115,6 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
----
-
----
 
 ---
 
