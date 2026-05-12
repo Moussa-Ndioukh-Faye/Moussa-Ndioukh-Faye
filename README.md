@@ -130,8 +130,24 @@
 
 <br />
 
+---
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=onedark" width="100%" />
+  <table width="100%">
+    <tr>
+      <td align="center" style="border: none;">
+        <br />
+        <img src="https://img.shields.io/badge/Citation_du_moment-64a1f4?style=for-the-badge&logo=quote&logoColor=white" />
+        <br /><br />
+        <font size="4">
+          <i>« Le code est comme l'humour. Quand vous devez l'expliquer, c'est qu'il est mauvais. »</i>
+        </font>
+        <br />
+        <b>— Cory House</b>
+        <br /><br />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
