@@ -27,10 +27,14 @@
         <li>Un engagement total pour le <b>code propre (Clean Code)</b></li>
       </ul>
       📍 Basé au Sénégal 🇸🇳 | 🌍 Prêt pour le monde
+      <br /><br />
+      🚀 **Découvrez mon univers : [portfolio-moussa-rust.vercel.app](https://portfolio-moussa-rust.vercel.app/)**
     </td>
     <td width="45%" valign="top">
       <h4>⚡ En quelques mots</h4>
-      <img src="https://img.shields.io/badge/Status-Open_to_Collaborations-success?style=for-the-badge" width="100%" />
+      <a href="https://portfolio-moussa-rust.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Mon_Portfolio-21262d?style=for-the-badge&logo=vercel&logoColor=white" width="100%" />
+      </a>
       <br /><br />
       <b>🔭 Actuellement :</b> Perfectionnement des architectures Cloud & Microservices.
       <br />
