@@ -80,9 +80,9 @@
 
 ### 🕒 Activité Récente
 
-<!-- START_SECTION:activity -->
+<!--START_SECTION:activity-->
 *   En attente de la première exécution du workflow...
-<!-- END_SECTION:activity -->
+<!--END_SECTION:activity-->
 
 ---
 
