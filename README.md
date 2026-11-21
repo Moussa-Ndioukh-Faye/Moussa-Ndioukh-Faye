@@ -71,15 +71,20 @@
 ## 📊 Statistiques
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moussa-Ndioukh-Faye&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=27ae60&icon_color=27ae60&text_color=8b98a5" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa-Ndioukh-Faye&layout=compact&theme=transparent&hide_border=true&title_color=27ae60&text_color=8b98a5" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moussa-Ndioukh-Faye&show_icons=true&hide_rank=true&hide=contribs,issues&count_private=true&include_all_commits=true&custom_title=Mon%20activit%C3%A9%20GitHub&bg_color=111a24&border_color=23303d&title_color=27ae60&icon_color=27ae60&text_color=c9d4df&border_radius=14&locale=fr" height="170" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa-Ndioukh-Faye&layout=compact&langs_count=8&hide=html,css,scss,batchfile&custom_title=Langages&bg_color=111a24&border_color=23303d&title_color=27ae60&icon_color=27ae60&text_color=c9d4df&border_radius=14&locale=fr" height="170" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Contributions" src="https://raw.githubusercontent.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://streak-stats.demolab.com?user=Moussa-Ndioukh-Faye&locale=fr&background=111A24&border=23303D&border_radius=14&ring=27AE60&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=C9D4DF&dates=7D8A97&stroke=23303D" width="100%" alt="Série de contributions" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moussa-Ndioukh-Faye&bg_color=111a24&color=c9d4df&title_color=27ae60&line=27ae60&point=ffffff&area=true&area_color=27ae60&hide_border=false&border_color=23303d&radius=14&custom_title=Contributions%20des%2030%20derniers%20jours" width="100%" alt="Graphique des contributions" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/output/snake-teranga.svg" width="100%" alt="Animation des contributions" />
 </p>
 
 ## 🕒 Activité récente
