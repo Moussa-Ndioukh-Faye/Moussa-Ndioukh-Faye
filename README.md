@@ -3,13 +3,21 @@
 </div>
 
 <p align="center">
-  <a href="https://portfolio-moussa-rust.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-27ae60?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://moussa-ndioukh-faye.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-27ae60?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:fayemoussandioukh@gmail.com"><img src="https://img.shields.io/badge/Email-0f2431?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Moussa-Ndioukh-Faye&color=0f2431&style=for-the-badge&label=VISITES" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=27AE60&center=true&vCenter=true&width=600&lines=Je+construis+des+applications+utiles+au+S%C3%A9n%C3%A9gal;IA+appliqu%C3%A9e+%C3%A0+l'%C3%A9ducation;Web%2C+mobile%2C+Linux+et+cybers%C3%A9curit%C3%A9" alt="" />
+</p>
+
+<p align="center">
+  <a href="https://moussa-ndioukh-faye.vercel.app/#about">
+    <img src="assets/presentation.gif" width="720" alt="Vidéo de présentation de Moussa Ndioukh Faye" />
+  </a>
+  <br />
+  <sub><a href="https://moussa-ndioukh-faye.vercel.app/#about">Voir la vidéo complète avec le son sur mon portfolio</a></sub>
 </p>
 
 ## À propos
