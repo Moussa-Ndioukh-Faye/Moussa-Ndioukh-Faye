@@ -57,7 +57,7 @@ Je construis des applications web et mobiles pensées pour des problèmes concre
 | [TP JavaFX + JDBC](https://github.com/Moussa-Ndioukh-Faye/tp14_poo_javafx) | Interface JavaFX (FXML) connectée à MySQL | Java · JavaFX · Maven |
 | [ActuSen](https://github.com/Moussa-Ndioukh-Faye/Actusen_site_actualite) | Site d'actualités avec espace d'administration (articles, catégories, utilisateurs, rôles) | PHP · MySQL |
 | [Gestion des étudiants en C](https://github.com/Moussa-Ndioukh-Faye/Projet-langage-c-gestion_etudiant) | Gestion des étudiants, classes, matières et notes en console, stockage CSV | C |
-| [Parrainage ESP](https://github.com/Moussa-Ndioukh-Faye/projet_Arphan_streamlit) | Application de parrainage entre étudiants, avec appariement parrain-filleul | Python · Streamlit · SQLite |
+| [Parrainage ESP](https://github.com/Moussa-Ndioukh-Faye/projet_Arphan_streamlit) | Application de parrainage entre étudiants, avec appariement parrain-filleul | Python · Streamlit · MySQL |
 | [Services réseaux avancés](https://github.com/Moussa-Ndioukh-Faye/TP_Reseau_avances) | Rapports de TP : mise en place de SSH, clés, SCP, tunnel vers une base de données | Linux · SSH |
 
 ---
