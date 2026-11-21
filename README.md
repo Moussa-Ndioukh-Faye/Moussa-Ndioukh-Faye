@@ -98,11 +98,11 @@
 ## Activité récente
 
 <!--START_SECTION:activity-->
-1. Merged PR [#4](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/pull/4) in [Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye)
-2. Opened PR [#4](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/pull/4) in [Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye)
-3. Merged PR [#39](https://github.com/Moussa-Ndioukh-Faye/Sen_Parcelle/pull/39) in [Moussa-Ndioukh-Faye/Sen_Parcelle](https://github.com/Moussa-Ndioukh-Faye/Sen_Parcelle)
-4. Opened PR [#39](https://github.com/Moussa-Ndioukh-Faye/Sen_Parcelle/pull/39) in [Moussa-Ndioukh-Faye/Sen_Parcelle](https://github.com/Moussa-Ndioukh-Faye/Sen_Parcelle)
-5. Merged PR [#3](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/pull/3) in [Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye)
+1. 🎉 Merged PR [#5](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/pull/5) in [Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye)
+2. 💪 Opened PR [#5](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/pull/5) in [Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye)
+3. 🎉 Merged PR [#4](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/pull/4) in [Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye)
+4. 💪 Opened PR [#4](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/pull/4) in [Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye](https://github.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye)
+5. 🎉 Merged PR [#39](https://github.com/Moussa-Ndioukh-Faye/Sen_Parcelle/pull/39) in [Moussa-Ndioukh-Faye/Sen_Parcelle](https://github.com/Moussa-Ndioukh-Faye/Sen_Parcelle)
 <!--END_SECTION:activity-->
 
 <p align="center"><i>« Dalal ak diam » — bienvenue sur mon GitHub</i></p>
