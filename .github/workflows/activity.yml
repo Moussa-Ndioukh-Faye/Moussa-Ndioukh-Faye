@@ -25,3 +25,20 @@ jobs:
         with:
           COMMIT_MSG: "docs: mise à jour de l'activité récente"
           MAX_LINES: 5
+      - name: Retirer les emojis de l'activité récente
+        run: |
+          git pull --quiet origin main
+          python3 - <<'PY'
+          import re
+          s = open("README.md", encoding="utf-8").read()
+          start, end = "<!--START_SECTION:activity-->", "<!--END_SECTION:activity-->"
+          a, b = s.index(start), s.index(end)
+          section = re.sub(r"[\U0001F000-\U0001FAFF☀-➿️]+ ?", "", s[a:b])
+          open("README.md", "w", encoding="utf-8").write(s[:a] + section + s[b:])
+          PY
+          if ! git diff --quiet; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git commit -am "docs: activité récente sans emojis"
+            git push
+          fi
