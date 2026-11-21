@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="200" viewBox="0 0 600 200">
+<rect x="1" y="1" width="598" height="198" rx="18" fill="#111a24" stroke="#23303d" stroke-width="2"/>
+<rect x="1" y="1" width="8" height="198" rx="4" fill="#3b82f6"/>
+<g font-family="'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif">
+<text x="32" y="56" font-size="26" font-weight="800" fill="#ffffff">KaayNafaar</text>
+<text x="568" y="54" text-anchor="end" font-size="13" font-weight="700" fill="#3b82f6" letter-spacing="1.5">IA · ÉDUCATION</text>
+<text x="32" y="96" font-size="16" fill="#aab6c3">Révision intelligente : fiches, quiz et</text><text x="32" y="120" font-size="16" fill="#aab6c3">flashcards générés par l'IA depuis les cours.</text><rect x="32" y="148" width="70" height="28" rx="14" fill="#3b82f6" fill-opacity="0.14"/><text x="67.0" y="167" text-anchor="middle" font-size="14" font-weight="600" fill="#3b82f6">React</text><rect x="110" y="148" width="86" height="28" rx="14" fill="#3b82f6" fill-opacity="0.14"/><text x="153.0" y="167" text-anchor="middle" font-size="14" font-weight="600" fill="#3b82f6">Node.js</text><rect x="204" y="148" width="112" height="28" rx="14" fill="#3b82f6" fill-opacity="0.14"/><text x="260.0" y="167" text-anchor="middle" font-size="14" font-weight="600" fill="#3b82f6">PostgreSQL</text><rect x="324" y="148" width="103" height="28" rx="14" fill="#3b82f6" fill-opacity="0.14"/><text x="375.5" y="167" text-anchor="middle" font-size="14" font-weight="600" fill="#3b82f6">LangChain</text>
+</g></svg>
