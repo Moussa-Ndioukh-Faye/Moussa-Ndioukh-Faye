@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/activity.yml
 
 permissions:
   contents: write
