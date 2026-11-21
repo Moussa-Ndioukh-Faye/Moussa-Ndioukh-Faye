@@ -16,6 +16,10 @@
 
 ### 👤 À propos
 
+<p align="center">
+  <img src="assets/photo.png" width="170" alt="Photo de Moussa Ndioukh Faye" />
+</p>
+
 Je m'appelle **Moussa Ndioukh Faye**. Je suis étudiant en **3ᵉ année de licence Génie logiciel et systèmes d'information (GLSI)** à l'**École Supérieure Polytechnique de Dakar (ESP/UCAD)**.
 
 Je construis des applications web et mobiles pensées pour des problèmes concrets au Sénégal : la révision des étudiants, la sécurisation du foncier, le covoiturage en banlieue, la gestion des associations. Je regroupe ces projets sous **Teranex**, mon projet d'entreprise autour de solutions numériques adaptées au contexte local.
