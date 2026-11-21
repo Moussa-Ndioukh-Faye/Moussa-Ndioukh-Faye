@@ -12,25 +12,25 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=27AE60&center=true&vCenter=true&width=600&lines=Je+construis+des+applications+utiles+au+S%C3%A9n%C3%A9gal;IA+appliqu%C3%A9e+%C3%A0+l'%C3%A9ducation;Web%2C+mobile%2C+Linux+et+cybers%C3%A9curit%C3%A9" alt="" />
 </p>
 
-## 👋 À propos
+## À propos
 
 Étudiant en **3ᵉ année de licence Génie logiciel et systèmes d'information** à l'**École Supérieure Polytechnique de Dakar (ESP/UCAD)**, je conçois des applications web et mobiles pour des problèmes concrets : réviser ses cours, sécuriser le foncier, se déplacer en banlieue, gérer une association. Ces projets se retrouvent dans **Teranex**, mon projet d'entreprise.
 
-- 🎓 &nbsp;En L3 GLSI, je prépare un **master en informatique**
-- 🤖 &nbsp;Je m'intéresse à l'**IA appliquée à l'éducation**, aux **systèmes d'information** et à la **cybersécurité**
-- 🌱 &nbsp;J'apprends l'architecture logicielle, Docker et les LLM en local
+- En L3 GLSI, je prépare un **master en informatique**
+- Je m'intéresse à l'**IA appliquée à l'éducation**, aux **systèmes d'information** et à la **cybersécurité**
+- J'apprends l'architecture logicielle, Docker et les LLM en local
 
-## 🏆 Distinctions
+## Distinctions
 
 <table>
   <tr>
-    <td align="center" width="33%">🥉<br /><b>4ᵉ prix</b><br />Force-N Innovation Challenge 2026<br /><sub>avec Naañ Deem</sub></td>
-    <td align="center" width="33%">📜<br /><b>HCIA-Datacom</b><br />Huawei Talent Online<br /><sub>2025</sub></td>
-    <td align="center" width="33%">📜<br /><b>IA pour tous</b><br />FORCE-N · UN-CHK<br /><sub>2025</sub></td>
+    <td align="center" width="33%"><b>4ᵉ prix</b><br />Force-N Innovation Challenge 2026<br /><sub>avec Naañ Deem</sub></td>
+    <td align="center" width="33%"><b>HCIA-Datacom</b><br />Huawei Talent Online<br /><sub>2025</sub></td>
+    <td align="center" width="33%"><b>IA pour tous</b><br />FORCE-N · UN-CHK<br /><sub>2025</sub></td>
   </tr>
 </table>
 
-## 🚀 Projets phares
+## Projets phares
 
 <p align="center">
   <a href="https://github.com/Moussa-Ndioukh-Faye/KaayNafaar"><img src="assets/card-kaaynafaar.svg" width="49%" alt="KaayNafaar" /></a>
@@ -44,7 +44,7 @@
 </p>
 
 <details>
-<summary><b>🎓 Projets académiques (ESP)</b> — cliquer pour afficher</summary>
+<summary><b>Projets académiques (ESP)</b> — cliquer pour afficher</summary>
 <br />
 
 | Projet | Description | Stack |
@@ -60,7 +60,7 @@
 
 </details>
 
-## 🛠 Technologies
+## Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,php,dart,c&theme=dark" /><br /><br />
@@ -68,7 +68,7 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma,solidity,docker,debian,linux,git,github&theme=dark" />
 </p>
 
-## 📊 Statistiques
+## Statistiques
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Moussa-Ndioukh-Faye&show_icons=true&hide_rank=true&hide=contribs,issues&count_private=true&include_all_commits=true&custom_title=Mon%20activit%C3%A9%20GitHub&bg_color=111a24&border_color=23303d&title_color=27ae60&icon_color=27ae60&text_color=c9d4df&border_radius=14&locale=fr" height="170" alt="Statistiques GitHub" />
@@ -87,9 +87,9 @@
   <img src="https://raw.githubusercontent.com/Moussa-Ndioukh-Faye/Moussa-Ndioukh-Faye/output/snake-teranga.svg" width="100%" alt="Animation des contributions" />
 </p>
 
-## 🕒 Activité récente
+## Activité récente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<p align="center"><i>« Dalal ak diam » — bienvenue sur mon GitHub 🇸🇳</i></p>
+<p align="center"><i>« Dalal ak diam » — bienvenue sur mon GitHub</i></p>
