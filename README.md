@@ -3,13 +3,13 @@
 </div>
 
 <p align="center">
-  <a href="https://moussa-ndioukh-faye.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-27ae60?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:fayemoussandioukh@gmail.com"><img src="https://img.shields.io/badge/Email-0f2431?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Moussa-Ndioukh-Faye&color=0f2431&style=for-the-badge&label=VISITES" />
+  <a href="https://moussa-ndioukh-faye.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1667f2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:fayemoussandioukh@gmail.com"><img src="https://img.shields.io/badge/Email-0b1d4a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Moussa-Ndioukh-Faye&color=0b1d4a&style=for-the-badge&label=VISITES" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=27AE60&center=true&vCenter=true&width=600&lines=Je+construis+des+applications+utiles+au+S%C3%A9n%C3%A9gal;IA+appliqu%C3%A9e+%C3%A0+l'%C3%A9ducation;Web%2C+mobile%2C+Linux+et+cybers%C3%A9curit%C3%A9" alt="" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=3B82FF&center=true&vCenter=true&width=600&lines=Je+construis+des+applications+utiles+au+S%C3%A9n%C3%A9gal;IA+appliqu%C3%A9e+%C3%A0+l'%C3%A9ducation;Web%2C+mobile%2C+Linux+et+cybers%C3%A9curit%C3%A9" alt="" />
 </p>
 
 <p align="center">
@@ -79,16 +79,16 @@
 ## Statistiques
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Moussa-Ndioukh-Faye&show_icons=true&hide_rank=true&hide=contribs,issues&count_private=true&include_all_commits=true&custom_title=Mon%20activit%C3%A9%20GitHub&bg_color=111a24&border_color=23303d&title_color=27ae60&icon_color=27ae60&text_color=c9d4df&border_radius=14&locale=fr" height="170" alt="Statistiques GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa-Ndioukh-Faye&layout=compact&langs_count=8&hide=html,css,scss,batchfile&custom_title=Langages&bg_color=111a24&border_color=23303d&title_color=27ae60&icon_color=27ae60&text_color=c9d4df&border_radius=14&locale=fr" height="170" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Moussa-Ndioukh-Faye&show_icons=true&hide_rank=true&hide=contribs,issues&count_private=true&include_all_commits=true&custom_title=Mon%20activit%C3%A9%20GitHub&bg_color=0b1a48&border_color=1e3a8a&title_color=8fb0ff&icon_color=3b82ff&text_color=c9d6ff&border_radius=14&locale=fr" height="170" alt="Statistiques GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moussa-Ndioukh-Faye&layout=compact&langs_count=8&hide=html,css,scss,batchfile&custom_title=Langages&bg_color=0b1a48&border_color=1e3a8a&title_color=8fb0ff&icon_color=3b82ff&text_color=c9d6ff&border_radius=14&locale=fr" height="170" alt="Langages les plus utilisés" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Moussa-Ndioukh-Faye&locale=fr&background=111A24&border=23303D&border_radius=14&ring=27AE60&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=27AE60&sideLabels=C9D4DF&dates=7D8A97&stroke=23303D" width="100%" alt="Série de contributions" />
+  <img src="https://streak-stats.demolab.com?user=Moussa-Ndioukh-Faye&locale=fr&background=0B1A48&border=1E3A8A&border_radius=14&ring=3B82FF&fire=8FB0FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=3B82FF&sideLabels=C9D6FF&dates=8FA3D6&stroke=1E3A8A" width="100%" alt="Série de contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moussa-Ndioukh-Faye&bg_color=111a24&color=c9d4df&title_color=27ae60&line=27ae60&point=ffffff&area=true&area_color=27ae60&hide_border=false&border_color=23303d&radius=14&custom_title=Contributions%20des%2030%20derniers%20jours" width="100%" alt="Graphique des contributions" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Moussa-Ndioukh-Faye&bg_color=0b1a48&color=c9d6ff&title_color=8fb0ff&line=3b82ff&point=ffffff&area=true&area_color=3b82ff&hide_border=false&border_color=1e3a8a&radius=14&custom_title=Contributions%20des%2030%20derniers%20jours" width="100%" alt="Graphique des contributions" />
 </p>
 
 <p align="center">
