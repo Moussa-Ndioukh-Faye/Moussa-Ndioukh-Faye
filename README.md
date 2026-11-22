@@ -98,11 +98,11 @@
 ## Activité récente
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#17](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/17) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
-2. 🎉 Merged PR [#16](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/16) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
-3. 💪 Opened PR [#16](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/16) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
-4. 🎉 Merged PR [#2](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/2) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
-5. 💪 Opened PR [#2](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/2) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
+1. Opened PR [#17](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/17) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
+2. Merged PR [#16](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/16) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
+3. Opened PR [#16](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/16) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
+4. Merged PR [#2](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/2) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
+5. Opened PR [#2](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar/pull/2) in [Moussa-Ndioukh-Faye/KaayNafaar](https://github.com/Moussa-Ndioukh-Faye/KaayNafaar)
 <!--END_SECTION:activity-->
 
 <p align="center"><i>« Dalal ak diam » — bienvenue sur mon GitHub</i></p>
